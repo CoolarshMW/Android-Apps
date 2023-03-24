@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518182354033",
+    "project_id": "chat-stream-bfbaf",
+    "storage_bucket": "chat-stream-bfbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518182354033:android:eb6b3a73d41f2590b46fd0",
+        "android_client_info": {
+          "package_name": "com.example.sms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518182354033-3vt7v2qfboia429sa83v1jcnl8pkho80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCszzBlYXydArulOfxF_4sBseGrxFcFLyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518182354033-3vt7v2qfboia429sa83v1jcnl8pkho80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
